@@ -13,4 +13,8 @@ Dice app. You can make the die roll at the press of a button or by shaking your 
 * Understanding and use Swift constants and variables.
 * Understand and use collection types such as Swift arrays.
 * Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.![animation](https://user-images.githubusercontent.com/89012665/162814214-d9a8bcf0-4889-4a2b-80e2-348f0e10fa44.gif)
+* Learn about randomisation and how to generate random numbers in Swift.
+* 
+
+https://user-images.githubusercontent.com/89012665/162814332-ac67b558-9392-46de-b651-569e177713dd.mp4
+
